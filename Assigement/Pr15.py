@@ -1,0 +1,12 @@
+n = int(input("Enter the series : "))
+n1 = 1
+n2 = 2
+print("Fibonacci series is ... ")
+print(n1)
+print(n2)
+
+for i in range(2,n+1):
+    n3 = n2 + n1
+    print(n3)
+    n1 = n2
+    n2 = n3
