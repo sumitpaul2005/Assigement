@@ -1,6 +1,4 @@
-sent = input("Enter the String : ")
-word = sent.strip().lower().split()
-# print(word.count("is"))
-for i in word:
-    print(word[i].count(i))
-        
+for i in range(0,len(lis)):
+    for j in range(i+1,len(lis)):
+        if lis[i][1] > lis[j][1]:
+            lis[i], lis[j] = lis[j] , lis[i]

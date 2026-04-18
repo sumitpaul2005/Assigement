@@ -1,7 +1,7 @@
 n = list(map(int,input("Enter the value : ").split()))
-uq = []
+unique = []
 for i in n:
-    if i not in uq:
-        uq.append(i)
+    if i not in unique:
+        unique.append(i)
     
-print(uq)
+print(unique)

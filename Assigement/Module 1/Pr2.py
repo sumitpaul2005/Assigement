@@ -1,5 +1,5 @@
-main = input("Enter the string : ").strip().lower()
-sub = input("Enter the sub String : ").strip().lower()
+main = input("Enter the string : ").lower()
+sub = input("Enter the sub String : ").lower()
 co = main.count(sub)
 
 print("Total number of Sub String is : ",co)
