@@ -1,10 +1,4 @@
-create table Company ( CompanyId int primary key auto_increment, CompanyName varchar(50), Street varchar(50), City varchar(50), State varchar(50), Zip varchar(50));
-create table Employee(EmployeeId int primary key auto_increment, FirstName varchar(50), LastName varchar(50), Salary decimal(10,2),HireDate date, JobTitle 	varchar(50), Email varchar(50), Phone varchar(12));
-create table Contact(ContactId int primary key auto_increment, CompanyId int, foreign key (CompanyId) references Company(CompanyId), FirstName varchar(50), LastName varchar(50),Street varchar(50), City varchar(50), State varchar(50), Zip varchar(50),IsMain boolean,Email varchar(50),Phone bigint);
-Create table ContactEmployee(ContactEmployeeId int primary key auto_increment, ContactId int, foreign key (ContactId) references Contact (ContactId), EmployeeId int, foreign key (EmployeeId) references Employee(EmployeeId),ContactDate date , Description varchar(50));
-drop table Employee;
-drop table contactemployee;
-use assignment;
+use assignmentsql;
 insert into Company(CompanyId,CompanyName,Street,City,State,Zip) values(1,'Urban Outfitters Inc.','MG Road','Ahmedabad','Gujarat',380001),
 						  (2,'ABC Technologies Company','Solar Road','Ahmedabad','Gujarat',380002),
                           (3,'Tops Technologies','Maninagar','Ahmedabad','Gujarat',380023),
@@ -53,8 +47,3 @@ insert into ContactEmployee(ContactEmployeeId,ContactID,EmployeeId,ContactDate,D
 (10, 110, 103, '2024-02-05', 'Final project delivery discussion');
 
 select * from contactemployee;
-
-update Employee set Phone = '2155558800' where FirstName = 'Lesley' and LastName = 'Bland';
-
-update Company set CompanyName = 'Urban Outfitters' where companyName = 'Urban Outfitters Inc.';
-
