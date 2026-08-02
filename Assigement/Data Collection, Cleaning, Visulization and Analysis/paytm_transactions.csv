@@ -1,0 +1,6 @@
+TransactionID;Date;Amount;Merchant;Status
+TXN001;2026-08-01;250;Amazon;Success
+TXN002;2026-08-01;;Flipkart;Success
+TXN003;2026-08-02;500;;Failed
+TXN004;;1000;Swiggy;Success
+TXN005;2026-08-03;300;Zomato;
