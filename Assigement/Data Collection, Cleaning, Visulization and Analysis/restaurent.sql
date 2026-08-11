@@ -20,3 +20,5 @@ INSERT INTO restaurants (restaurant_id, name, city, cuisine, rating) VALUES
 (8, 'Taco Fiesta', 'Ahmedabad', 'Mexican', 4.4),
 (9, 'Green Bowl', 'Jaipur', 'Healthy', 4.6),
 (10, 'Ocean Delight', 'Goa', 'Seafood', 4.5);
+
+select * from restaurants;
