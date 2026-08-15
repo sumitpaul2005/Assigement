@@ -57,7 +57,7 @@ print(df)
 
 
 """
-Q4. Pick any one column with missing values from your dataset and explain which missingness mechanism 
+Q5. Pick any one column with missing values from your dataset and explain which missingness mechanism 
 (MCAR, MAR, or MNAR) is most likely and why, using 2-3 sentences.<br><br><em><strong>Hint:</strong> 
 Think about whether the missing data is random or related to other factors in the dataset.</em>
 

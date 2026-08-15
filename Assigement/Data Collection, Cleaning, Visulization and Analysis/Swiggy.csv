@@ -1,0 +1,27 @@
+order_id,customer_name,restaurant,order_amount
+1001,Customer A,Restaurant A,250
+1002,Customer B,Restaurant B,450
+1003,Customer C,Restaurant C,320
+1004,Customer D,Restaurant D,550
+1005,Customer E,Restaurant E,280
+1006,Customer F,Restaurant F,620
+1007,Customer G,Restaurant G,390
+1008,Customer H,Restaurant H,480
+1009,Customer I,Restaurant I,350
+1010,Customer J,Restaurant J,700
+1011,Customer K,Restaurant K,420
+1012,Customer L,Restaurant L,310
+1013,Customer M,Restaurant M,580
+1014,Customer N,Restaurant N,460
+1015,Customer O,Restaurant O,330
+1016,Customer P,Restaurant P,520
+1017,Customer Q,Restaurant Q,410
+1018,Customer R,Restaurant R,290
+1019,Customer S,Restaurant S,650
+1020,Customer T,Restaurant T,370
+1021,Customer U,Restaurant U,440
+1022,Customer V,Restaurant V,510
+1023,Customer W,Restaurant W,360
+1024,Customer X,Restaurant X,600
+1025,Customer Y,Restaurant Y,470
+1026,Customer Z,Restaurant Z,5000
