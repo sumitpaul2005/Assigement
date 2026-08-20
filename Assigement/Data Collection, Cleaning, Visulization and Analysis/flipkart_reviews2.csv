@@ -1,0 +1,21 @@
+review_id,product_name,brand,rating,review_title,review_text,review_date,reviewer_name,verified_purchase,helpful_votes,price
+R001,Wireless Bluetooth Earbuds,boAt,4,Good Sound,"Sound quality is very good and battery backup is excellent",2026-01-05,Rahul,Yes,125,1299
+R002,Wireless Bluetooth Earbuds,boAt,5,Excellent,"Amazing earbuds and comfortable to use",2026-01-07,Priya,Yes,210,1299
+R003,Wireless Bluetooth Earbuds,boAt,3,Average,"Product is okay but bass could be better",2026-01-09,Amit,No,45,1299
+R004,Smartphone 5G,Samsung,5,Great Phone,"Excellent display and performance",2026-01-12,Neha,Yes,320,18999
+R005,Smartphone 5G,Samsung,4,Good Product,"Phone works well and camera quality is good",2026-01-14,Ravi,Yes,180,18999
+R006,Smartphone 5G,Samsung,,Nice Phone,"Good phone but heating issue noticed",2026-01-15,Anjali,Yes,95,18999
+R007,Running Shoes,Nike,5,Very Comfortable,"Comfortable shoes for running",2026-01-18,Vikas,Yes,150,3499
+R008,Running Shoes,Nike,4,Good Shoes,"Good quality but size was slightly different",2026-01-19,Meena,No,60,3499
+R009,Running Shoes,Nike,2,Not Satisfied,"The sole started wearing quickly",2026-01-21,Rohit,No,35,3499
+R010,Laptop,HP,5,Excellent Laptop,"Fast processor and good battery life",2026-01-23,Arjun,Yes,410,54999
+R011,Laptop,HP,4,Good Laptop,"Good laptop for office and study",2026-01-25,Simran,Yes,230,54999
+R012,Laptop,HP,,Average,"Laptop is good but display could improve",2026-01-26,,Yes,80,54999
+R013,Smart Watch,Noise,4,Good Watch,"Many useful features and good battery",2026-01-28,Karan,Yes,120,1999
+R014,Smart Watch,Noise,5,Excellent Watch,"Very useful and looks premium",2026-01-30,Divya,Yes,200,1999
+R015,Smart Watch,Noise,3,Average Product,"Features are good but app needs improvement",2026-02-01,Manish,No,40,1999
+R016,Power Bank,Mi,5,Good Quality,"Charges my phone quickly",2026-02-03,Pooja,Yes,175,1499
+R017,Power Bank,Mi,4,Useful Product,"Good capacity and compact design",2026-02-04,Suresh,Yes,90,1499
+R018,Power Bank,Mi,,Good,"Working properly after one month",2026-02-05,Reena,Yes,70,1499
+R019,Headphones,Sony,5,Excellent Sound,"Sound clarity is amazing",2026-02-07,Akash,Yes,280,4999
+R020,Headphones,Sony,4,Good Sound,"Comfortable headphones with good bass",2026-02-09,Nisha,Yes,140,4999

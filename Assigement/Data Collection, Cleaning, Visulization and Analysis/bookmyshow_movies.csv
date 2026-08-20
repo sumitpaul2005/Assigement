@@ -1,0 +1,51 @@
+movie_id,movie_name,genre,release_year,box_office_collection
+1,War,Action,2019,317
+2,Pathaan,Action,2023,543
+3,Jawan,Action,2023,643
+4,Animal,Action,2023,917
+5,KGF Chapter 2,Action,2022,1200
+6,RRR,Action,2022,1200
+7,Drishyam 2,Thriller,2022,345
+8,Andhadhun,Thriller,2018,111
+9,Article 15,Thriller,2019,93
+10,Ratsasan,Thriller,2018,50
+11,Stree,Horror,2018,180
+12,Bhool Bhulaiyaa 2,Horror,2022,266
+13,Tumbbad,Horror,2018,13
+14,Bhediya,Horror,2022,90
+15,The Conjuring,Horror,2013,206
+16,3 Idiots,Comedy,2009,460
+17,PK,Comedy,2014,854
+18,Good Newwz,Comedy,2019,205
+19,Bala,Comedy,2019,171
+20,Dream Girl,Comedy,2019,200
+21,Dangal,Drama,2016,2024
+22,Taare Zameen Par,Drama,2007,135
+23,12th Fail,Drama,2023,66
+24,Pink,Drama,2016,108
+25,Super 30,Drama,2019,208
+26,Shershaah,Romance,2021,200
+27,Rockstar,Romance,2011,108
+28,Jab We Met,Romance,2007,53
+29,Barfi,Romance,2012,175
+30,Ae Dil Hai Mushkil,Romance,2016,106
+31,Jugjugg Jeeyo,Family,2022,136
+32,Goodbye,Family,2022,11
+33,English Vinglish,Family,2012,78
+34,Secret Superstar,Family,2017,966
+35,Baghban,Family,2003,43
+36,Padmaavat,Historical,2018,585
+37,Tanhaji,Historical,2020,367
+38,Samrat Prithviraj,Historical,2022,90
+39,Bajirao Mastani,Historical,2015,356
+40,Kesari,Historical,2019,207
+41,Chhichhore,Comedy,2019,215
+42,Housefull 4,Comedy,2019,291
+43,Jugjugg Jeeyo,Comedy,2022,136
+44,Stree 2,Horror,2024,874
+45,Kantara,Action,2022,400
+46,Pushpa,Action,2021,365
+47,Salaar,Action,2023,617
+48,12th Fail,Drama,2023,66
+49,Rocky Aur Rani Kii Prem Kahaani,Romance,2023,355
+50,Gadar 2,Action,2023,691

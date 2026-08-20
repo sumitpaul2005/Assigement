@@ -39,9 +39,10 @@ plt.show()
 
 # bar chart :
 
-df=pd.read_csv("matplotlib/sample_superstore (1).csv")
+df=pd.read_csv("sample_superstore (1).csv")
 
 category_sales = df.groupby(['Category'])['Sales'].sum()
+print(category_sales)
 plt.bar(category_sales.index,category_sales.values,color='red',align='center',alpha=0.5,width=0.5)
 
 for i , j in enumerate(category_sales.values) :

@@ -1,0 +1,31 @@
+product_id,product_name,brand,category,gender,price,rating,reviews
+1001,Men Regular Fit Shirt,Roadster,Shirts,Men,1499,4.2,1250
+1002,Women Floral Dress,Tokyo Talkies,Dresses,Women,2299,4.3,980
+1003,Men Slim Fit Jeans,Levis,Jeans,Men,2999,4.5,2100
+1004,Women Solid Kurta,Libas,Kurtas,Women,1799,4.1,760
+1005,Men Running Shoes,Nike,Sports Shoes,Men,5499,4.6,3200
+1006,Women Casual Sneakers,Puma,Sneakers,Women,3499,4.4,1850
+1007,Men Polo T-Shirt,U.S. Polo Assn.,T-Shirts,Men,1999,4.2,1120
+1008,Women Handbag,Baggit,Handbags,Women,2499,4.3,870
+1009,Men Leather Wallet,WildHorn,Wallets,Men,899,4.0,650
+1010,Women Heels,Catwalk,Heels,Women,2799,4.2,920
+1011,Men Formal Blazer,Van Heusen,Blazers,Men,4599,4.5,780
+1012,Women Winter Jacket,ONLY,Jackets,Women,3999,4.4,1100
+1013,Men Casual Shoes,Red Tape,Casual Shoes,Men,2399,4.1,1450
+1014,Women Skinny Jeans,Levis,Jeans,Women,3299,4.3,1750
+1015,Men Printed T-Shirt,Roadster,T-Shirts,Men,999,4.0,820
+1016,Women Ethnic Dress,Biba,Dresses,Women,2199,4.5,1320
+1017,Men Sports Watch,HRX,Watches,Men,1899,4.1,560
+1018,Women Sunglasses,IDEE,Sunglasses,Women,2299,4.2,690
+1019,Men Hooded Sweatshirt,HRX,Sweatshirts,Men,2499,4.4,980
+1020,Women Ankle Boots,Metro,Footwear,Women,4999,4.5,760
+10121,Men Cotton Trousers,Peter England,Trousers,Men,2199,4.2,850
+1022,Women Designer Saree,Sangria,Sarees,Women,2899,4.3,1050
+1023,Men Running Shorts,Nike,Shorts,Men,2499,4.5,920
+1024,Women Palazzo Pants,Libas,Trousers,Women,1599,4.1,710
+1025,Men Premium Sneakers,Adidas,Sneakers,Men,5999,4.7,2800
+1026,Women Party Gown,Forever New,Gowns,Women,6999,4.6,1200
+1027,Men Denim Jacket,Levis,Jackets,Men,3999,4.4,1450
+1028,Women Printed Top,ONLY,Tops,Women,1299,4.0,640
+1029,Men Formal Shoes,Woodland,Formal Shoes,Men,3599,4.5,1300
+1030,Women Leather Bag,Michael Kors,Bags,Women,7999,4.6,980

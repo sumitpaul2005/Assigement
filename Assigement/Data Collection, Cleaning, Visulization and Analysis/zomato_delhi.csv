@@ -1,0 +1,21 @@
+restaurant_name,rating,votes,average_cost,online_order,book_table,cuisine
+Delhi Darbar,4.3,1350,700,Yes,Yes,North Indian
+Capital Tadka,4.1,900,600,Yes,No,North Indian
+Delhi Spice,4.5,1600,900,Yes,Yes,Indian
+Connaught Cafe,4.0,720,500,Yes,No,Cafe
+Food Street,3.9,580,400,Yes,No,Fast Food
+Royal Delhi,4.4,1250,850,Yes,Yes,North Indian
+Punjabi Junction,4.6,1900,1000,Yes,Yes,Punjabi
+The Terrace,4.2,980,1200,No,Yes,Continental
+Delhi Kitchen,4.0,620,550,Yes,No,Chinese
+Urban Restaurant,4.3,870,750,Yes,Yes,Multi Cuisine
+Taste of Delhi,4.5,1450,800,Yes,Yes,Indian
+Chaat Corner,3.8,450,300,Yes,No,Street Food
+Capital Grill,4.4,1150,1100,No,Yes,Continental
+Spice Route,4.2,830,700,Yes,No,North Indian
+Food Plaza,3.9,520,450,Yes,No,Fast Food
+Delhi Bites,4.1,680,550,Yes,No,Cafe
+Mughlai House,4.6,1750,950,Yes,Yes,Mughlai
+Green Garden,4.3,920,800,Yes,Yes,Indian
+Quick Meals,3.7,360,350,Yes,No,Fast Food
+Royal Cuisine,4.5,1300,1000,Yes,Yes,Multi Cuisine

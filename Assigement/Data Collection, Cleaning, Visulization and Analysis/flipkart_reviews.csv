@@ -1,0 +1,51 @@
+review_id,product_name,category,city,rating
+1,Apple iPhone 15,Electronics,Ahmedabad,5
+2,Samsung Galaxy S24,Electronics,Mumbai,4
+3,Nike Running Shoes,Clothing,Delhi,5
+4,Prestige Mixer Grinder,Home,Pune,3
+5,boAt Bluetooth Speaker,Electronics,Bengaluru,5
+6,Lakme Face Cream,Beauty,Ahmedabad,2
+7,Levis Jeans,Clothing,Surat,4
+8,Philips Air Fryer,Home,Delhi,5
+9,HP Laptop,Electronics,Jaipur,3
+10,Atomic Habits,Books,Mumbai,5
+11,Lakme Lipstick,Beauty,Pune,4
+12,OnePlus Nord,Electronics,Ahmedabad,1
+13,Adidas T Shirt,Clothing,Delhi,5
+14,Milton Water Bottle,Home,Surat,4
+15,Rich Dad Poor Dad,Books,Bengaluru,3
+16,Sony Headphones,Electronics,Mumbai,5
+17,Puma Shoes,Clothing,Jaipur,2
+18,Maybelline Mascara,Beauty,Delhi,4
+19,Philips Iron,Home,Pune,5
+20,Dell Monitor,Electronics,Ahmedabad,3
+21,The Alchemist,Books,Mumbai,5
+22,Peter England Shirt,Clothing,Surat,4
+23,Prestige Cooker,Home,Delhi,1
+24,Realme Smartphone,Electronics,Bengaluru,5
+25,Nykaa Foundation,Beauty,Ahmedabad,3
+26,Ikigai,Books,Jaipur,4
+27,Levis Jacket,Clothing,Mumbai,5
+28,boAt Earbuds,Electronics,Pune,2
+29,Bajaj Mixer,Home,Surat,4
+30,Maybelline Foundation,Beauty,Delhi,5
+31,Think Like a Monk,Books,Ahmedabad,3
+32,Asus Laptop,Electronics,Bengaluru,5
+33,H&M Hoodie,Clothing,Mumbai,4
+34,Sleepwell Pillow,Home,Jaipur,2
+35,JBL Earphones,Electronics,Delhi,5
+36,Nykaa Lipstick,Beauty,Pune,3
+37,The Psychology of Money,Books,Surat,4
+38,Adidas Shoes,Clothing,Ahmedabad,5
+39,Mi Power Bank,Electronics,Mumbai,1
+40,Cello Water Bottle,Home,Delhi,4
+41,Loreal Shampoo,Beauty,Bengaluru,5
+42,Lenovo Tablet,Electronics,Jaipur,3
+43,The Secret,Books,Pune,5
+44,Allen Solly Shirt,Clothing,Surat,4
+45,Lotus Face Wash,Beauty,Ahmedabad,2
+46,Prestige Kettle,Home,Mumbai,5
+47,Realme Smartwatch,Electronics,Delhi,3
+48,Harry Potter Book,Books,Bengaluru,4
+49,Puma T Shirt,Clothing,Pune,5
+50,Borosil Bottle,Home,Ahmedabad,1

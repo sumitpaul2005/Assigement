@@ -128,13 +128,13 @@ print(salary_above_40K)
 
 # date : 
 
-"""df['Joining_Date'] =pd.to_datetime(df['Joining_Date'],format="%d-%m-%Y")
-df['year'] =df['Joining_Date'].dt.year
-df['month'] =df['Joining_Date'].dt.month
-df['month_name'] =df['Joining_Date'].dt.month_name()
-df['day'] =df['Joining_Date'].dt.day
+df['Joining_Date'] =pd.to_datetime(df['Joining_Date'],format="%d-%m-%Y")
+# df['year'] =df['Joining_Date'].dt.year
+# df['month'] =df['Joining_Date'].dt.month
+# df['month_name'] =df['Joining_Date'].dt.month_name()
+# df['day'] =df['Joining_Date'].dt.day
 print(df)
-"""
+
 
 # value_counts :
 """
@@ -157,10 +157,10 @@ print(department_wise_salary)
 """
 
 #hw : top 3 emp name highest salary :
-
+"""
 sort = df.sort_values(by="Salary")
 print(sort)
 # print(df.head(3))
 # print(df.tail(3))
 sort = sort.where()
-print(sort)
+print(sort)"""

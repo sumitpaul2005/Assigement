@@ -1,0 +1,21 @@
+order_id,customer_name,restaurant,food_item,category,quantity,order_amount,delivery_time,rating,payment_method
+1001,Rahul,Spice Hub,Paneer Tikka,Main Course,2,650,35,4.5,UPI
+1002,Priya,Food Palace,Burger,Fast Food,1,280,25,4.2,Card
+1003,Amit,Curry House,Butter Chicken,Main Course,2,750,40,4.6,Cash
+1004,Neha,Pizza Corner,Margherita Pizza,Pizza,1,450,30,4.1,UPI
+1005,Ravi,South Kitchen,Masala Dosa,South Indian,2,300,28,4.4,Card
+1006,Anjali,Spice Hub,Biryani,Rice,1,350,32,4.7,UPI
+1007,Vikas,Burger Point,Veg Burger,Fast Food,2,500,27,4.0,Cash
+1008,Meena,Chinese Wok,Hakka Noodles,Chinese,1,320,35,4.3,UPI
+1009,Rohit,Curry House,Paneer Butter Masala,Main Course,2,600,38,4.5,Card
+1010,Simran,Pizza Corner,Farmhouse Pizza,Pizza,1,550,31,4.2,UPI
+1011,Arjun,Food Palace,French Fries,Fast Food,3,360,24,4.0,Cash
+1012,Pooja,South Kitchen,Idli Sambhar,South Indian,2,250,26,4.4,UPI
+1013,Karan,Spice Hub,Chicken Biryani,Rice,2,700,36,4.8,Card
+1014,Divya,Chinese Wok,Manchurian,Chinese,1,380,34,4.1,UPI
+1015,Manish,Burger Point,Cheese Burger,Fast Food,1,300,29,3.9,Cash
+1016,Reena,Curry House,Dal Tadka,Main Course,2,400,37,4.3,UPI
+1017,Akash,Pizza Corner,Cheese Pizza,Pizza,2,800,33,4.6,Card
+1018,Nisha,South Kitchen,Paneer Dosa,South Indian,1,280,27,4.5,UPI
+1019,Suresh,Spice Hub,Chicken Tikka,Main Course,2,620,39,4.7,Cash
+1020,Kavita,Chinese Wok,Fried Rice,Chinese,2,500,30,4.2,UPI
