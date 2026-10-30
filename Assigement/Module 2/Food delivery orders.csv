@@ -1,0 +1,8 @@
+order_id,restaurant_name,customer_name,order_amount,order_date
+1,Pizza Palace,Rahul,450,2026-08-01
+2,Spice Hub,Priya,320,2026-08-01
+3,Burger Point,Amit,280,2026-08-02
+4,Food Corner,Neha,550,2026-08-02
+5,Italian Treat,Rohan,620,2026-08-03
+2,Spice Hub,Suresh,1000,2026-09-04
+4,Food Corner,Raju,500,2026-12-26

@@ -1,0 +1,51 @@
+match_id,season,team1,team2,venue,total_runs,winner
+1,2020,Mumbai Indians,Chennai Super Kings,Abu Dhabi,371,Mumbai Indians
+2,2020,Delhi Capitals,Chennai Super Kings,Sharjah,341,Delhi Capitals
+3,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Dubai,329,Royal Challengers Bangalore
+4,2020,Kolkata Knight Riders,Rajasthan Royals,Dubai,401,Rajasthan Royals
+5,2021,Chennai Super Kings,Delhi Capitals,Mumbai,352,Delhi Capitals
+6,2021,Mumbai Indians,Royal Challengers Bangalore,Chennai,327,Royal Challengers Bangalore
+7,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai,286,Kolkata Knight Riders
+8,2021,Punjab Kings,Rajasthan Royals,Mumbai,398,Rajasthan Royals
+9,2021,Delhi Capitals,Sunrisers Hyderabad,Chennai,311,Delhi Capitals
+10,2021,Royal Challengers Bangalore,Chennai Super Kings,Dubai,365,Chennai Super Kings
+11,2022,Chennai Super Kings,Kolkata Knight Riders,Mumbai,318,Kolkata Knight Riders
+12,2022,Mumbai Indians,Delhi Capitals,Mumbai,354,Delhi Capitals
+13,2022,Rajasthan Royals,Royal Challengers Bangalore,Pune,362,Rajasthan Royals
+14,2022,Sunrisers Hyderabad,Punjab Kings,Mumbai,327,Sunrisers Hyderabad
+15,2022,Gujarat Titans,Lucknow Super Giants,Mumbai,291,Gujarat Titans
+16,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Mumbai,318,Royal Challengers Bangalore
+17,2022,Delhi Capitals,Rajasthan Royals,Mumbai,384,Rajasthan Royals
+18,2022,Chennai Super Kings,Gujarat Titans,Pune,344,Gujarat Titans
+19,2023,Chennai Super Kings,Gujarat Titans,Ahmedabad,364,Chennai Super Kings
+20,2023,Royal Challengers Bangalore,Mumbai Indians,Bengaluru,352,Royal Challengers Bangalore
+21,2023,Rajasthan Royals,Delhi Capitals,Guwahati,371,Rajasthan Royals
+22,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata,407,Sunrisers Hyderabad
+23,2023,Lucknow Super Giants,Chennai Super Kings,Lucknow,296,Chennai Super Kings
+24,2023,Gujarat Titans,Punjab Kings,Ahmedabad,350,Gujarat Titans
+25,2023,Mumbai Indians,Rajasthan Royals,Mumbai,412,Mumbai Indians
+26,2023,Delhi Capitals,Royal Challengers Bangalore,Delhi,337,Delhi Capitals
+27,2023,Sunrisers Hyderabad,Lucknow Super Giants,Hyderabad,315,Lucknow Super Giants
+28,2023,Kolkata Knight Riders,Gujarat Titans,Kolkata,389,Gujarat Titans
+29,2024,Chennai Super Kings,Royal Challengers Bangalore,Chennai,357,Chennai Super Kings
+30,2024,Mumbai Indians,Delhi Capitals,Mumbai,432,Mumbai Indians
+31,2024,Rajasthan Royals,Lucknow Super Giants,Jaipur,341,Rajasthan Royals
+32,2024,Royal Challengers Bangalore,Sunrisers Hyderabad,Bengaluru,482,Sunrisers Hyderabad
+33,2024,Chennai Super Kings,Kolkata Knight Riders,Chennai,376,Chennai Super Kings
+34,2024,Gujarat Titans,Punjab Kings,Ahmedabad,358,Punjab Kings
+35,2024,Delhi Capitals,Sunrisers Hyderabad,Delhi,453,Sunrisers Hyderabad
+36,2024,Rajasthan Royals,Mumbai Indians,Jaipur,398,Rajasthan Royals
+37,2024,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow,376,Royal Challengers Bangalore
+38,2024,Kolkata Knight Riders,Mumbai Indians,Kolkata,401,Kolkata Knight Riders
+39,2025,Chennai Super Kings,Mumbai Indians,Chennai,349,Chennai Super Kings
+40,2025,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata,361,Royal Challengers Bangalore
+41,2025,Delhi Capitals,Sunrisers Hyderabad,Delhi,342,Delhi Capitals
+42,2025,Punjab Kings,Rajasthan Royals,Mullanpur,399,Punjab Kings
+43,2025,Gujarat Titans,Mumbai Indians,Ahmedabad,411,Gujarat Titans
+44,2025,Lucknow Super Giants,Delhi Capitals,Lucknow,367,Lucknow Super Giants
+45,2025,Rajasthan Royals,Kolkata Knight Riders,Jaipur,384,Kolkata Knight Riders
+46,2025,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,425,Royal Challengers Bangalore
+47,2025,Mumbai Indians,Chennai Super Kings,Mumbai,337,Mumbai Indians
+48,2025,Kolkata Knight Riders,Punjab Kings,Kolkata,393,Punjab Kings
+49,2025,Delhi Capitals,Gujarat Titans,Delhi,371,Gujarat Titans
+50,2025,Royal Challengers Bangalore,Punjab Kings,Ahmedabad,359,Royal Challengers Bangalore

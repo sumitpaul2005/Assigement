@@ -1,0 +1,21 @@
+restaurant_name,rating,votes,average_cost,online_order,book_table,cuisine
+Spice Garden,4.5,1250,800,Yes,Yes,North Indian
+Mumbai Tadka,4.2,980,600,Yes,No,North Indian
+Coastal Kitchen,4.6,1500,1200,No,Yes,Seafood
+Cafe Mumbai,4.0,650,500,Yes,No,Cafe
+Urban Bites,4.3,820,700,Yes,Yes,Italian
+Royal Punjab,4.1,720,650,Yes,No,North Indian
+Sea View Restaurant,4.7,2100,1500,No,Yes,Seafood
+Food Junction,3.9,540,450,Yes,No,Fast Food
+The Green Leaf,4.4,1100,900,Yes,Yes,Continental
+Mumbai Spice,4.2,890,750,Yes,No,Chinese
+Taste Hub,4.0,600,550,Yes,No,Multi Cuisine
+Sky Lounge,4.6,1750,1400,No,Yes,Continental
+Street Food Corner,3.8,430,300,Yes,No,Street Food
+Grand Restaurant,4.3,1050,1000,Yes,Yes,North Indian
+Ocean Grill,4.5,1320,1100,No,Yes,Seafood
+Cafe Aroma,4.1,700,500,Yes,No,Cafe
+Masala House,4.4,950,800,Yes,Yes,Indian
+Quick Bite,3.7,390,350,Yes,No,Fast Food
+The Food Factory,4.2,810,650,Yes,No,Chinese
+Mumbai Kitchen,4.5,1200,950,Yes,Yes,Multi Cuisine
