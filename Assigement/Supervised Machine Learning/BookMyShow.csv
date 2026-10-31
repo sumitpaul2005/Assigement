@@ -1,0 +1,21 @@
+movie,user ratings,total reviews,genre
+Movie A,4.2,1200,Action
+Movie B,3.8,850,Comedy
+Movie C,4.5,2500,Drama
+Movie D,3.5,500,Romance
+Movie E,4.0,1500,Thriller
+Movie F,4.3,1800,Action
+Movie G,3.9,900,Comedy
+Movie H,4.1,1100,Drama
+Movie I,3.7,700,Romance
+Movie J,4.4,2200,Thriller
+Movie K,4.0,1300,Action
+Movie L,3.6,600,Comedy
+Movie M,4.2,1600,Drama
+Movie N,3.9,950,Romance
+Movie O,4.5,2800,Thriller
+Movie P,4.1,1400,Action
+Movie Q,0.2,100,Drama
+Movie R,4.3,1700,Comedy
+Movie S,4.4,2000,Action
+Movie T,5.0,3000,Thriller

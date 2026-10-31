@@ -1,0 +1,16 @@
+product,price,rating,reviews,discount
+Mobile A,15000,4.2,1200,20
+Mobile B,22000,4.5,2500,15
+Laptop A,55000,4.3,850,25
+Laptop B,75000,4.6,1500,30
+Headphones A,2000,3.9,500,10
+Headphones B,3500,4.4,900,35
+Smartwatch A,5000,4.1,700,20
+Smartwatch B,8000,4.5,1100,40
+Tablet A,18000,4.0,600,15
+Tablet B,28000,4.3,1300,25
+Speaker A,2500,3.8,400,10
+Speaker B,4500,4.2,800,30
+Camera A,40000,4.4,950,20
+Camera B,65000,4.7,1800,35
+Keyboard A,1200,3.7,300,5
