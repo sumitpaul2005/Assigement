@@ -93,35 +93,24 @@ However, Model A has a higher R² score, so the final choice depends on the busi
 # Q5. Compare two regression models for predicting Spotify song popularity: calculate MSE, RMSE, MAE, and R² for both models using sklearn, then identify which model is likely overfitting based on the results.<br><br><em><strong>Hint:</strong> Overfitting often shows very low error on training data but much higher error on test data.</em>
 
 df = pd.read_csv("spotify.csv")
-print(df.isnull().sum())
-
-X = df[["Beats_Per_Minute","Energy","Danceability","Tempo"]]
+X = df[["Beats_Per_Minute", "Energy", "Danceability", "Tempo"]]
 y = df["Popularity"]
 
-X_train,X_test,y_train,y_test = train_test_split(
-    X,y,
-    test_size=0.3,
-    random_state=42
-)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-model = LinearRegression()
-model.fit(X_train,y_train)
+model1 = LinearRegression()
+model2 = RidgeClassifier(random_state=42) 
 
-linearPred = model.predict(X_test)
-print("Linear model Prediction : ",linearPred)
+model1.fit(X_train, y_train)
+model2.fit(X_train, y_train)
 
-print("MAE : ",mean_absolute_error(y_test,linearPred))
-print("RMSE : ",root_mean_squared_error(y_test,linearPred))
-print("R2 Score : ",r2_score(y_test,linearPred))
-print("MSE : ",mean_squared_error(y_test,linearPred))
+def evaluate_model(model, name):
+    pred_train = model.predict(X_train)
+    pred_test = model.predict(X_test)
+    
+    print(f"\n--- {name} ---")
+    print(f"Train MSE: {mean_squared_error(y_train, pred_train):.4f} | Test MSE: {mean_squared_error(y_test, pred_test):.4f}")
+    print(f"Train R2:  {r2_score(y_train, pred_train):.4f}  | Test R2:  {r2_score(y_test, pred_test):.4f}")
 
-redgemodel = RidgeClassifier(alpha=1,random_state=42)
-redgemodel.fit(X_train,y_train)
-
-rigpred = redgemodel.predict(X_test)
-print("Ridge Model : ",rigpred)
-
-print("MAE : ",mean_absolute_error(y_test,rigpred))
-print("RMSE : ",root_mean_squared_error(y_test,rigpred))
-print("R2 Score : ",r2_score(y_test,rigpred))
-print("MSE : ",mean_squared_error(y_test,rigpred))
+evaluate_model(model1, "Linear Regression")
+evaluate_model(model2, "Decision Tree Regressor")
