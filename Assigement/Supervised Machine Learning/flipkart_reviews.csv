@@ -1,0 +1,14 @@
+
+Sentiment,Review
+Product is very good,Positive
+Excellent quality,Positive
+I love this product,Positive
+Very useful and amazing,Positive
+Best product ever,Positive
+Quality is excellent,Positive
+Product is very bad,Negative
+Worst product,Negative
+I hate this product,Negative
+Very poor quality,Negative
+Not worth buying,Negative
+Product is useless,Negative
