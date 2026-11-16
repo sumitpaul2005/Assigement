@@ -134,16 +134,13 @@ print(df.isnull().sum())
 X = df[['delivery_time_mins', 'food_temp_celsius', 'distance_km', 'order_value_inr', 'driver_rating']]
 y = df['good_rating']
 
-# 2. Split into train (80%) and test (20%) sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# 3. Train Decision Tree (max_depth=2 shows the top 3 splits cleanly)
 clf = DecisionTreeClassifier(criterion='gini', max_depth=2, random_state=42)
 clf.fit(X_train, y_train)
 
 print(f"Test Accuracy: {clf.score(X_test, y_test):.2%}")
 
-# 4. Visualize the tree
 plt.figure(figsize=(14, 7))
 plot_tree(
     clf,
