@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sentiment,Review
 Amazing product and great quality,Positive
 Very happy with this purchase,Positive
@@ -49,3 +50,19 @@ Bad finishing and poor quality,Negative
 The product is difficult to use,Negative
 Received the wrong product,Negative
 Very unsatisfactory experience,Negative
+=======
+
+Sentiment,Review
+Product is very good,Positive
+Excellent quality,Positive
+I love this product,Positive
+Very useful and amazing,Positive
+Best product ever,Positive
+Quality is excellent,Positive
+Product is very bad,Negative
+Worst product,Negative
+I hate this product,Negative
+Very poor quality,Negative
+Not worth buying,Negative
+Product is useless,Negative
+>>>>>>> eb08799870642daea75979034245304bc673a099
